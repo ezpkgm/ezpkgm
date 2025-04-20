@@ -3,12 +3,27 @@
 		"foo": {
 			"Repo": "thorne",
 			"Version": "idk",
-			"Origin": "/home/thorne/dumps/"
+			"Origin": "/home/thorne/dumps"
 		},
 		"llvm": {
 			"Repo": "llvm-project",
 			"Version": "llvmorg-20.1.3",
-			"Origin": "/home/thorne/dumps/"
+			"Origin": "/home/thorne/dumps"
+		},
+    "withastro": {
+			"Repo": "astro",
+			"Version": "astro@5.7.4",
+			"Origin": "/home/thorne/dumps"
+		},
+    "vitejs": {
+			"Repo": "vite",
+			"Version": "v6.3.2",
+			"Origin": "/home/thorne/dumps"
+		},
+    "twbs": {
+			"Repo": "bootstrap",
+			"Version": "v5.3.5",
+			"Origin": "/home/thorne/dumps"
 		}
 	}
 }
