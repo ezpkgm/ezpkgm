@@ -1,0 +1,9 @@
+{
+	"projects": {
+		"foo": {
+			"Repo": "thorne",
+			"Version": "idk",
+			"Origin": "/home/thorne/dumps/"
+		}
+	}
+}
