@@ -5,9 +5,9 @@
 			"Version": "idk",
 			"Origin": "/home/thorne/dumps/"
 		},
-		"clang": {
-			"Repo": "thorne",
-			"Version": "idk",
+		"llvm": {
+			"Repo": "llvm-project",
+			"Version": "llvmorg-20.1.3",
 			"Origin": "/home/thorne/dumps/"
 		}
 	}
