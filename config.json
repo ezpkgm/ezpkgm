@@ -4,6 +4,11 @@
 			"Repo": "thorne",
 			"Version": "idk",
 			"Origin": "/home/thorne/dumps/"
+		},
+		"clang": {
+			"Repo": "thorne",
+			"Version": "idk",
+			"Origin": "/home/thorne/dumps/"
 		}
 	}
 }
